@@ -1,0 +1,10 @@
+Check   Etapa-1: Criar um script capaz de adcionar colunas a uma tabela no sql server
+        Etapa-2: Criar um script capaz de alterar os tipos dos campos em uma tabela no sql server
+        Etapa-3: criar um script capaz de alterar os tamanhos dos dados nas nas colunas
+        Etapa-4: criar um script capaz de alterar caracteristicas nullable dos campos
+        Etapa-5: criar um script capaz de tratar valores default.
+        Etapa-6: Criar um script capaz de lidar com restriçoes unique
+        Etapa-7: Criar um script capaz de alterar colunas do tipo constraints (como default, unique, ou primary key),
+    --> Obs. as contraints exitentes devem ser removidas antes das alteraçoes.
+        Etapa-8: criar um script capaz de avaliar se na tabela há colunas tipo primary key e se houver o script seja capaz de remover antes de implementar o novo primary key
+
